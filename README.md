@@ -2,7 +2,7 @@
 Group Project at Upgrad - Course 5
 
 Project Title
-Trello_quora- Question Controlller
+Trello_quora
 
 This project is for, developing REST API endpoints of various functionalities required for a website (similar to Quora) from scratch.This project followed a definite structure in order to help the co-developers and reviewers for easy understanding. Also,the better project structure of this project makes code modular and it becomes easier to implement any new features on the existing application. The main module is divided into three sub-modules — quora-api, quora-db, and quora-service.
 
