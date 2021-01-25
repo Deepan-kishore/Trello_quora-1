@@ -33,7 +33,7 @@ Versioning
 We used git and git hub for versioning. For the versions available see the repositories.
 
 List of Contributors :
-#####  Deepan Kishore - Team Facilator
+#####  Deepan Kishore - Team Member
 #####  Snehal Patel - Team Member
 #####  Saurabh Soparkar - Team Member
 
