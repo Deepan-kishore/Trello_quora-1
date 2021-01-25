@@ -10,7 +10,7 @@ Getting Started Instructions:
 
 Need to run these JSON files on Swagger UI and observe the details related to each endpoint. Observe the HTTP methods to make a call to that endpoint, request URL pattern, input and output parameters of the endpoint, and the status codes in each endpoint to handle the exceptions related to that endpoint. The main directory of the project used "mvn clean install -DskipTests". In order to activate the profile setup, move to quora-db folder using "cd quora-db" command in the terminal and then run "mvn clean install -Psetup" command to activate the profile setup. In this project, always refer to the resource's uuid whenever id of the resource is mentioned.
 
-Prerequisites Install
+Prerequisites
 
 #### JDK
 #### PostgreSQL
@@ -33,8 +33,9 @@ Versioning
 We used git and git hub for versioning. For the versions available see the repositories.
 
 List of Contributors :
-####  Snehal Patel - Group Member
-####  Saurabh Soparkar - Group Member
-####  Deepan Kishore - Group Member
+#####  Deepan Kishore - Team Facilator
+#####  Snehal Patel - Team Member
+#####  Saurabh Soparkar - Team Member
+
 
 License This project is licensed under the Upgrad License .
